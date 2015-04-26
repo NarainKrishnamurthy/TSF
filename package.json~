@@ -1,0 +1,10 @@
+{
+  "name": "TSF Website",
+  "description": "Site for CMU Tartan Student Fund",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "connect": "*",
+    "serve-static": "*"
+  }
+}
