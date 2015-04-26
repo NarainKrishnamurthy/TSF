@@ -207,10 +207,11 @@ margin-right: auto;
 border-radius: 50%;
 width: 100%;
 position: relative;
+background: black;
 }
 
 .circle-border {
-border: 1px solid black;
+border: 1px whitesmoke;
 }
 
 .circle-solid{
@@ -237,10 +238,11 @@ margin: auto;
 position: absolute;
 top: 0;
 left: 0;
-bottom: 0;
+bottom: 2.4vw;
 right: 0;
-height: 3vw;
-line-height: 3vw;
-font-size: 3vw;
+height: 1.2vw;
+color: whitesmoke;
+line-height: 1.2vw;
+font-size: 1.2vw;
 }
 
