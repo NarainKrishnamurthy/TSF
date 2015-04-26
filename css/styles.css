@@ -139,22 +139,22 @@ section {
     }
 }
   
-#section1, #section3 {
+#section1, #section3, #section8, #section9, #application  {
 	background-color: rgba(0,0,0,0.7);
 	color:#fff;
 	font-family: 'Bitter', serif;
 }
   
-#section4 {
+#section4{
 	background-color: #f6f6f6;
 	color:#444;
 }
   
-#section2 {
+#section2, #section10, #section11 {
 	background-color: #fff;
 }
 
-#section3 {
+#section3, #section9, #application {
 	background-color: rgba(0,0,0,0.9);
 }
 
@@ -194,3 +194,53 @@ footer .nav>li>a:hover {
     background-color:transparent;
 	color:#fff;
 }
+
+iframe {
+  float: center;
+  width: 80vw;
+  height: 500px;
+}
+
+.circle {
+margin-left: auto;
+margin-right: auto;
+border-radius: 50%;
+width: 100%;
+position: relative;
+}
+
+.circle-border {
+border: 1px solid black;
+}
+
+.circle-solid{
+background-color: whitesmoke;
+}
+
+.circle:before {
+content: "";
+display: block;
+padding-top: 100%;
+}
+
+.circle-inner {
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+text-align: center;
+}
+
+.score-text {
+margin: auto;
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+height: 3vw;
+line-height: 3vw;
+font-size: 3vw;
+}
+
