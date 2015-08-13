@@ -27,7 +27,7 @@
         <div class="navbar-collapse collapse" id="navbar-collapsible">
             <ul class="nav navbar-nav navbar-left">
                 <li><a href="#section1">Home</a></li>
-                <li><a href="#section4">About</a></li>
+                <li><a href="#about">About</a></li>
                 <!-- <li><a href="#team">Team</a></li> -->
                 <li><a href="#section8">Positions</a></li>
                 <li><a href="#application">Application</a></li>
@@ -57,11 +57,11 @@
 </section>
 
 
-<section class="container-fluid" id="section4">
+<section class="container-fluid whiteback" id="about">
     <h1 class="text-center">About Us</h1>
     <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
-           <p>
+           <h3>
            	The Tartan Student Fund is Carnegie Mellon’s student managed long-equity investment fund with 
 						approximately $50k under management. We were generously given this allocation by the CMU 
 						endowment, and actively work with the university investment office in managing the portfolio.
@@ -82,7 +82,7 @@
 						holdings, and discuss major financial markets news. There is an application process to become a voting 
 						member of the fund, but all members of the CMU community are welcome to attend our educational 
 						lectures and fund meetings.
-           </p>
+           </h3>
         </div>
     </div>
 </section>
@@ -198,19 +198,19 @@
     </div>
 </section>
 
-<section class="container-fluid" id="section4">
+<section class="container-fluid whiteback" id="application">
     <h1 class="text-center">Application</h1>
     <div class="row">
         <div class="col-sm-8 col-sm-offset-2">
         	 <br />
         	 <br />
-        	 <h4> The fall 2015 TSF application will be up soon! </h4>
+        	 <h3> The fall 2015 TSF application will be up soon! </h3>
         	 <br />
-					<h4>How to best prepare over the summer:</h4>
+					<h3>How to best prepare over the summer:</h3>
 					<ul>
-						<li><h4>Keep up to date with financial markets news through outlets such as the WSJ and CNBC</h4></li>
-						<li><h4>Brush up on or familiarize yourself with basic accounting and equity valuation methodologies, 
-							focusing on comparable companies analysis and discounted cash flow analysis.</h4></li>
+						<li><h3>Keep up to date with financial markets news through outlets such as the WSJ and CNBC</h3></li>
+						<li><h3>Brush up on or familiarize yourself with basic accounting and equity valuation methodologies, 
+							focusing on comparable companies analysis and discounted cash flow analysis.</h3></li>
 					</ul>
         </div>
     </div>
